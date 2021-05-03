@@ -1,12 +1,12 @@
 # Optimization in Machine Learning project
 
 # Todo
-[_] Get the modeling working, i.e. the settings of the experiments (non-stationarity and distributions)
-[_] Get an experiment running once with static parameters
-[_] Perform experiment one
-[_] Perform experiment two
-[_] Producing the result / discussion section of the report
+Get the modeling working, i.e. the settings of the experiments (non-stationarity and distributions)
+-[] Get an experiment running once with static parameters
+-[] Perform experiment one
+-[] Perform experiment two
+-[] Producing the result / discussion section of the report
 
-[_] Writing the introduction
+-[] Writing the introduction
 
 [Overleaf]()
