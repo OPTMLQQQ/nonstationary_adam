@@ -1,1 +1,1 @@
-# nonstationary_adam
+# Optimization in Machine Learning project
