@@ -6,7 +6,6 @@
 - Perform experiment one
 - Perform experiment two
 - Producing the result / discussion section of the report
-
 - Writing the introduction
 
 [Paper](https://www.overleaf.com/read/prmpfqxjwyrx)
