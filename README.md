@@ -1,11 +1,12 @@
-# Optimization in Machine Learning project
+# Stochastic Gradient Descent and Adam in Non-Stationary Environments
 
-# Todo
-- Get the modeling working, i.e. the settings of the experiments (non-stationarity and distributions)
-- Get an experiment running once with static parameters
-- Perform experiment one
-- Perform experiment two
-- Producing the result / discussion section of the report
-- Writing the introduction
+This repository contains the project _Stochastic Gradient Descent and Adam in Non-Stationary Environments_ developed for the CS-439 Optimization for Machine Learning at EPFL. The report can be found in the `report.pdf` file. The `experiments.ipynb` notebook contains the code for the experiment discussed in the report.
 
-[Paper](https://www.overleaf.com/read/prmpfqxjwyrx)
+Our code was tested with python 3.8 and the latest versions of the following packages:
+- numpy
+- matplotlib
+- seaborn
+- torch
+
+Make sure to install them before running the code.
+
